@@ -1,0 +1,24 @@
+body, html {
+height: 100%;
+}
+.bg {
+background-image: url("lottery.jpg");
+height: 100vh;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.bg1 {
+background-image: url("image.jpg");
+height: 100vh;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.bg2{
+  background-image: url("image1.jpg");
+}
+
+.bg3{
+  background-image: url("block.jpg");
+}

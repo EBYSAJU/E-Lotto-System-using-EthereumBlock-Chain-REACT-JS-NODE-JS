@@ -1,0 +1,65 @@
+.view {
+background-image: url('lottery.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center;
+height: 100vh;
+}
+
+.gradient {
+background: -webkit-linear-gradient(45deg, rgba(0, 0, 0, 0.7), rgba(72, 15, 144, 0.4) 100%);
+background: -webkit-gradient(linear, 45deg, from(rgba(0, 0, 0, 0.7), rgba(72, 15, 144, 0.4) 100%));
+background: linear-gradient(to 45deg, rgba(0, 0, 0, 0.7), rgba(72, 15, 144, 0.4) 100%);
+}
+
+.card {
+background-color: white;
+background-image: url('');
+
+}
+
+h6 {
+line-height: 1.7;
+}
+h3{
+  color: black;
+}
+.navbar {
+transition: background .5s ease-in-out,padding .5s ease-in-out;
+}
+
+.top-nav-collapse {
+background: #424f95 !important;
+}
+
+@media (max-width: 768px) {
+.navbar:not(.top-nav-collapse) {
+background: #424f95 !important;
+}
+}
+
+label {
+color: black!important;
+}
+.text-center mt-4 black-text{
+
+}
+.button1{
+  background-color: #4CAF50;
+    border: 1px solid green;
+    color: white;
+    padding: 10px 24px;
+    cursor: pointer;
+    width: 50%;
+    display: block;
+}
+.change{
+
+  font-size: 15px;
+  color:black;
+}
+.change1{
+
+  font-size: 25px;
+  color:white;
+}
