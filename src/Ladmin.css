@@ -1,0 +1,17 @@
+.view {
+background-image: url('image.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center;
+height: 100vh;
+}
+
+
+.card {
+background-color: white;
+background-image: url('');
+
+position: center;
+
+
+}
