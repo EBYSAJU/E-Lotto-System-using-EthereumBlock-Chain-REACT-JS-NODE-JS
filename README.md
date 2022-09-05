@@ -7,3 +7,12 @@ E-Lottery system with ethereum block chain and React using Meta Mask
 ![My Image](admin.png)
 ![My Image](firebase.png)
 ![My Image](metamaskimage.png)
+
+# UI
+  React JS
+# Technologies Used
+  Ethereum Blockchain,Node JS,Web3 Js
+# Blockchain Contract Language
+  Solidity
+# Cryptographic Hash Function
+  Keccak 256
