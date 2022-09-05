@@ -16,3 +16,5 @@ E-Lottery system with ethereum block chain and React using Meta Mask
   Solidity
 # Cryptographic Hash Function
   Keccak 256
+# Ethereum Test Network
+  RinkebyTestNetwork using MetaMask
