@@ -1,4 +1,4 @@
-## E-Lottery system with ethereum block chain and React using Meta Mask
+## E-Lottery system with ethereum block chain and React JS tested using MetaMask on Rinkebytextnetwork
 ![My Image](homepage.png)
 ![My Image](home1.png)
 ![My Image](metamask.png)
